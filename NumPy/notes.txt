@@ -5,3 +5,32 @@ AI
 Stock Market
 Medical research
 Image processing etc
+
+
+NumPy functions:
+np.array() – Makes an array from a list or numbers you give.
+
+np.mean() – Finds the average value of numbers in the array.
+
+np.zeros() – Creates an array filled with only zeros.
+
+np.ones() – Creates an array filled with only ones.
+
+np.full() – Makes an array filled with a value you choose.
+
+np.arange() – Gives numbers in order, like counting, within a range.
+
+np.eye() – Creates a square matrix with 1s on the diagonal and 0s elsewhere.
+
+
+
+
+
+Aggregation functions:
+
+np.sum()
+np.mean()
+np.min()
+np.max()
+np.std()
+np.var()
